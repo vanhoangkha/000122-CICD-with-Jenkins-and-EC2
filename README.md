@@ -1,4 +1,4 @@
-# 🔄 CI/CD with Jenkins and EC2
+# CI/CD with Jenkins and EC2
 
 Set up CI/CD pipeline using Jenkins on EC2.
 
@@ -8,7 +8,7 @@ This is a hands-on workshop from the **AWS First Cloud Journey** series.
 
 ## Workshop
 
-📖 **[Start the workshop](https://vanhoangkha.github.io/000122-CICD-with-Jenkins-and-EC2/)**
+**[Start the workshop](https://vanhoangkha.github.io/000122-CICD-with-Jenkins-and-EC2/)**
 
 ## Prerequisites
 
